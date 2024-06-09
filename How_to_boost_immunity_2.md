@@ -70,5 +70,7 @@
 
 [上一页(如何提高免疫力(一))](How_to_boost_immunity_1.md)
 
+[下一页(如何提高免疫力(三))](How_to_boost_immunity_3.md)
+
 
 
