@@ -1,3 +1,5 @@
+# 如何提高免疫力(三)
+
 我们在之前提到了爱感冒的最重要且几乎唯一的原因——**多汗**。没有看过的朋友可以[点击这个链接](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MTU5MjI1MA==&action=getalbum&album_id=3211413424915365889&scene=173&subscene=227&sessionid=1707371360&enterid=1707371763&from_msgid=2247484110&from_itemidx=1&count=3&nolastread=1#wechat_redirect)查看。今天我们来解释一下为什么爱出汗就容易感冒。
 
 # ![图片由AI生成](https://typare-1311038289.cos.ap-nanjing.myqcloud.com/uPic/DALL%C2%B7E%202024-02-08%2011.37.36%20-%20A%20portrait%20of%20a%20Chinese%20beauty%20from%20the%20Tang%20Dynasty,%20featuring%20long%20hair%20elegantly%20styled,%20large%20expressive%20eyes,%20and%20traditional%20makeup.%20The%20woman%20i-20240208113845406-20240208113909680.webp)卫外以为固
