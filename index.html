@@ -6,14 +6,33 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify-themeable/dist/css/themeable.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+      name: 'MyBook',
+      repo: '',
+      themeable: {
+        readyTransition: true,
+        responsiveTables: true,
+        siteFont: 'Arial, sans-serif',
+        defaultTheme: 'light',
+        themes: {
+          light: {
+            background: '#ffffff',
+            primaryColor: '#42b983',
+            accentColor: '#42b983'
+          },
+          dark: {
+            background: '#333333',
+            primaryColor: '#4caf50',
+            accentColor: '#ffeb3b'
+          }
+        }
+      }
+    };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
