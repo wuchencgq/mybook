@@ -10,4 +10,5 @@
 
 * [如何提高免疫力(五)](How_to_boost_immunity_5.md)
 
+* [中成药使用指南](Guide to the Use of Traditional Chinese Medicine Formulations.md)
 
